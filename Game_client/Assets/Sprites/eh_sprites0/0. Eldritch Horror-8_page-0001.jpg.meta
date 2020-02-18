@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 3044ac198b9560240a27ee2eaf1c3590
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2292541686474191810
+    second: 0. Eldritch Horror-8_page-0001_0
+  - first:
+      213: -4927383027234090648
+    second: 0. Eldritch Horror-8_page-0001_1
+  - first:
+      213: 5586506951032330190
+    second: 0. Eldritch Horror-8_page-0001_2
+  - first:
+      213: -5564880040224602617
+    second: 0. Eldritch Horror-8_page-0001_3
+  - first:
+      213: 7578820731154961773
+    second: 0. Eldritch Horror-8_page-0001_4
+  - first:
+      213: -1127171841875273182
+    second: 0. Eldritch Horror-8_page-0001_5
+  - first:
+      213: -7048708904880384600
+    second: 0. Eldritch Horror-8_page-0001_6
+  - first:
+      213: 8909469017493581284
+    second: 0. Eldritch Horror-8_page-0001_7
+  - first:
+      213: -446955209362723367
+    second: 0. Eldritch Horror-8_page-0001_8
+  - first:
+      213: -9080346376029440187
+    second: 0. Eldritch Horror-8_page-0001_9
+  - first:
+      213: 1225151001176083971
+    second: 0. Eldritch Horror-8_page-0001_10
+  - first:
+      213: -5128164131412822560
+    second: 0. Eldritch Horror-8_page-0001_11
+  - first:
+      213: 7710277914000745897
+    second: 0. Eldritch Horror-8_page-0001_12
+  - first:
+      213: 5942324518902392099
+    second: 0. Eldritch Horror-8_page-0001_13
+  - first:
+      213: -3560063316800289389
+    second: 0. Eldritch Horror-8_page-0001_14
+  - first:
+      213: 7791171568500864519
+    second: 0. Eldritch Horror-8_page-0001_15
+  - first:
+      213: -1358092796318359673
+    second: 0. Eldritch Horror-8_page-0001_16
+  - first:
+      213: 5861029495241925641
+    second: 0. Eldritch Horror-8_page-0001_17
+  - first:
+      213: 6950538396301538140
+    second: 0. Eldritch Horror-8_page-0001_18
+  - first:
+      213: -3672925744003653121
+    second: 0. Eldritch Horror-8_page-0001_19
+  - first:
+      213: 5056324539621622442
+    second: 0. Eldritch Horror-8_page-0001_20
+  - first:
+      213: -774449613167379507
+    second: 0. Eldritch Horror-8_page-0001_21
+  - first:
+      213: 1885373668303778671
+    second: 0. Eldritch Horror-8_page-0001_22
+  - first:
+      213: 5569158651546453387
+    second: 0. Eldritch Horror-8_page-0001_23
+  - first:
+      213: 6890830189294075567
+    second: 0. Eldritch Horror-8_page-0001_24
+  - first:
+      213: -2055745485220792057
+    second: 0. Eldritch Horror-8_page-0001_25
+  - first:
+      213: 1831251619216894645
+    second: 0. Eldritch Horror-8_page-0001_26
+  - first:
+      213: 6674829540248541647
+    second: 0. Eldritch Horror-8_page-0001_27
+  - first:
+      213: 2083399755691951558
+    second: 0. Eldritch Horror-8_page-0001_28
+  - first:
+      213: -5630643838865406848
+    second: 0. Eldritch Horror-8_page-0001_29
+  - first:
+      213: 9122540191133686734
+    second: 0. Eldritch Horror-8_page-0001_30
+  - first:
+      213: 8136871278543529415
+    second: 0. Eldritch Horror-8_page-0001_31
+  - first:
+      213: -1936556627126186193
+    second: 0. Eldritch Horror-8_page-0001_32
+  - first:
+      213: -5075041750968241171
+    second: 0. Eldritch Horror-8_page-0001_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1396
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9391460b6e634da0cc6b41f928369
+      internalID: -2292541686474191810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1396
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41badb1b26c8a394eb9e93b1dcea5e1e
+      internalID: -4927383027234090648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1396
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c200f19ce918134c87502653f5451ff
+      internalID: 5586506951032330190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1396
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8893d9974ba7dc44cb39ef9daee7b075
+      internalID: -5564880040224602617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1396
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82652520e4fd7df45a6535fc02f9896c
+      internalID: 7578820731154961773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1189
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e18dfe11133248a4ddcf943f1beef
+      internalID: -1127171841875273182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1189
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f217d94f7ad5e4f94150a5b27f2890
+      internalID: -7048708904880384600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1189
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914db3e0a4dc6084d8511ba9d2a35399
+      internalID: 8909469017493581284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1189
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e55040809c114ea717e20d281c19f
+      internalID: -446955209362723367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1189
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6b1801cb72e941863db0b67fcd217
+      internalID: -9080346376029440187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 982
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd520c448d23e824ebbab722973d7106
+      internalID: 1225151001176083971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 982
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd347f9abce84545bc621783d3fd4a3
+      internalID: -5128164131412822560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 982
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1762246058bddd24c8d8c42ce0145d49
+      internalID: 7710277914000745897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 982
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce1e047701869448fbe01274d78d66
+      internalID: 5942324518902392099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_14
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 982
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318addb47ba9b8e409f0932c8a1b1fa9
+      internalID: -3560063316800289389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_15
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 775
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b399e91e82f5994399d0de662e00766
+      internalID: 7791171568500864519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 568
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb2a660fe7b2243b2a474e96f75004
+      internalID: -1358092796318359673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 361
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2169814631f8f946891bd2c8b22cc63
+      internalID: 5861029495241925641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_18
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 775
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1847334067b124f933a92886a9f392
+      internalID: 6950538396301538140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 775
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7759b5b76774f504dbede03da736f226
+      internalID: -3672925744003653121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 775
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d26bb31f670a47a8d65f57040807a
+      internalID: 5056324539621622442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 775
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d58393690a7fde408a5e3ad8180c6b0
+      internalID: -774449613167379507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_22
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 568
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979cc59594aa94459160fe576bc48ed
+      internalID: 1885373668303778671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 568
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b447de35a01d54daea39d2ef86ba03
+      internalID: 5569158651546453387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 568
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed209ebbc62e0e4d929476362ad4e82
+      internalID: 6890830189294075567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 568
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c5a8ecce49c3428c23fde06c4f785
+      internalID: -2055745485220792057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_26
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 361
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2cf40db279d89409612d8eadac25fd
+      internalID: 1831251619216894645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 361
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80964009bff2d744da5f1116ad362514
+      internalID: 6674829540248541647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 361
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ff1adabfce1c49a29b690162308ab
+      internalID: 2083399755691951558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 361
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2861cea6768c26c4e9c5471ac9a96b3e
+      internalID: -5630643838865406848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_30
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 154
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb40cd778c1b684688122b60bae9572
+      internalID: 9122540191133686734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 154
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6ae529e95bfe4196b13d09b6c50ef
+      internalID: 8136871278543529415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 154
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73b310142f2874aa5b529d317bb99f
+      internalID: -1936556627126186193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0. Eldritch Horror-8_page-0001_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 154
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8eacd1025c4734b819067714f80bfd
+      internalID: -5075041750968241171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
